@@ -1,15 +1,16 @@
-<div style="width: 5em">
 ![Silent's Cel Shading Shaders](https://cdn.discordapp.com/attachments/414634326995763201/758190255521398784/SCSS_header_1.png)
-</div>
+
 
 Shaders for Unity for cel shading, designed to take Unity's lighting into account while also presenting materials in the best possible way. Featuring lots of features with good performance!
-# [Want to know how to use this shader? Here's the manual!](https://gitlab.com/s-ilent/SCSS/wikis/Manual/Setting-Overview)
-# [Can't find the Download link? Click here!](https://gitlab.com/s-ilent/SCSS/-/archive/master/SCSS-master.zip)
+### [Want to know how to use this shader? Here's the manual!](https://gitlab.com/s-ilent/SCSS/wikis/Manual/Setting-Overview)
+
+### [Can't find the Download link? Click here!](https://gitlab.com/s-ilent/SCSS/-/archive/master/SCSS-master.zip)
+
 * After downloading, install the shader by moving the contents of the Assets folder into your project's Assets folder.
 
-<div style="width: 5em">
+
 ![Suitable for shade or shine!](https://cdn.discordapp.com/attachments/414634326995763201/758184322708275220/Crosstone_proto.jpg)
-</div>
+
 
 ## Features include:
 * **Customisable lighting**
@@ -34,7 +35,7 @@ Shaders for Unity for cel shading, designed to take Unity's lighting into accoun
 
 * **Outlines and control**
 
-  The outline system is optimised for VR, with outlines that reduce size based on camera proximity to avoid models breaking up at close inspection. Outline size can be finely controlled using the vertex colour channels. 
+  The outline system is optimised for VR, with outlines that reduce size based on camera proximity to avoid models breaking up at close inspection. Outline size can be finely controlled using the vertex colour channels.
 
 * **Advanced Options**
 
@@ -44,11 +45,11 @@ Shaders for Unity for cel shading, designed to take Unity's lighting into accoun
 
   Simple Inventory System lets you toggle parts of a material easily, allowing for runtime customisation of clothing without the costs of extra skinned meshes.<br>
   AudioLink compatibility allows for audio-reactive effects on materials, integrated into the emission system.<br>
-  Shader baking creates an optimised variant of each material's shaders, allowing for a smaller upload size and better runtime performance. 
+  Shader baking creates an optimised variant of each material's shaders, allowing for a smaller upload size and better runtime performance.
 
-<div style="width: 5em">
+
 ![Too Much Preview](https://cdn.discordapp.com/attachments/414634326995763201/694118872110071880/screen_10328x5640_2020-03-30_19-58-06.png.jpg)
-</div>
+
 
 # [For more details, please check the setting overview!](https://gitlab.com/s-ilent/SCSS/wikis/Manual/Setting-Overview)
 
